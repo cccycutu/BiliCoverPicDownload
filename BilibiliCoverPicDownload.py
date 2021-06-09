@@ -1,11 +1,3 @@
-"""
-
-输入：B站用户空间号171864633，如https://space.bilibili.com/171864633
-
-输出：在当前文件夹pic下载该用户所有的投稿封面，文件名以数字加随机16位随机字符命名。
-
-"""
-
 import requests
 import random
 import string
